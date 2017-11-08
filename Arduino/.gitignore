@@ -1,0 +1,49 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Swap file from VIM 
+*.swp
+
+# temp files of this flavor
+~*
+
+# sketch-up back-ups
+*.skb
+
+# Visual studio crud
+**/\.vs/**
+**/__vm/**
+
+# Visual studio build output
+**/Debug/**
+**/Release/**

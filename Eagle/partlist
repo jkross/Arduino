@@ -1,0 +1,18 @@
+Partlist
+
+Exported from chart.brd at 8/28/2016 3:36 PM
+
+EAGLE Version 7.6.0 Copyright (c) 1988-2016 CadSoft
+
+Assembly variant: 
+
+Part     Value             Package           Library                                Position (inch)       Orientation
+
+B0       ARDUINO_R3_SHIELD UNO_R3_SHIELD     SparkFun-Boards                        (1.05 0.65)           R0
+J0       0                 2X16              pinhead                                (1.45 1.55)           R90
+J1       0                 2X16              pinhead                                (2.75 1.55)           R90
+JPRTC0   Tiny RTC          1X07              pinhead                                (2.1 1.9)             R0
+R1       180               AXIAL-0.4         SparkFun-Resistors                     (1.85 1.65)           R0
+R2       180               AXIAL-0.4         SparkFun-Resistors                     (2.35 1.65)           R0
+U0       TLC5916IN         DIP254P762X508-16 Texas Instruments_By_element14_Batch_1 (2 0.8)               R0
+U1       TLC5916IN         DIP254P762X508-16 Texas Instruments_By_element14_Batch_1 (2.5 0.8)             R0

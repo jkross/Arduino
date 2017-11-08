@@ -1,0 +1,155 @@
+Pinlist
+
+Exported from chart.brd at 8/28/2016 3:35 PM
+
+EAGLE Version 7.6.0 Copyright (c) 1988-2016 CadSoft
+
+Part     Pad      Net
+
+B0       5V       VCC
+         A0                *** unconnected ***
+         A1                *** unconnected ***
+         A2                *** unconnected ***
+         A3                *** unconnected ***
+         A4       SCA
+         A5       SCL
+         D2                *** unconnected ***
+         D3       PWM
+         D4                *** unconnected ***
+         D5                *** unconnected ***
+         D6                *** unconnected ***
+         D7                *** unconnected ***
+         D8       SCK
+         D9                *** unconnected ***
+         NC                *** unconnected ***
+         RX                *** unconnected ***
+         TX                *** unconnected ***
+         D10               *** unconnected ***
+         D11      DATA0
+         D12      LATCH
+         D13               *** unconnected ***
+         RES               *** unconnected ***
+         SCL               *** unconnected ***
+         SDA               *** unconnected ***
+         VIN               *** unconnected ***
+         3.3V     VDD
+         AREF              *** unconnected ***
+         GND@0             *** unconnected ***
+         GND@1             *** unconnected ***
+         GND@2    GND
+         IOREF             *** unconnected ***
+
+J0       1        VCC
+         2        L0-0
+         3                 *** unconnected ***
+         4                 *** unconnected ***
+         5        VCC
+         6        L0-1
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9        VCC
+         10       L0-2
+         11                *** unconnected ***
+         12                *** unconnected ***
+         13       VCC
+         14       L0-3
+         15                *** unconnected ***
+         16                *** unconnected ***
+         17       VCC
+         18       L0-4
+         19                *** unconnected ***
+         20                *** unconnected ***
+         21       VCC
+         22       L0-5
+         23                *** unconnected ***
+         24                *** unconnected ***
+         25       VCC
+         26       L0-6
+         27                *** unconnected ***
+         28                *** unconnected ***
+         29       VCC
+         30       L0-7
+         31                *** unconnected ***
+         32                *** unconnected ***
+
+J1       1        VCC
+         2        L1-0
+         3                 *** unconnected ***
+         4                 *** unconnected ***
+         5        VCC
+         6        L1-1
+         7                 *** unconnected ***
+         8                 *** unconnected ***
+         9        VCC
+         10       L1-2
+         11                *** unconnected ***
+         12                *** unconnected ***
+         13       VCC
+         14       L1-3
+         15                *** unconnected ***
+         16                *** unconnected ***
+         17       VCC
+         18       L1-4
+         19                *** unconnected ***
+         20                *** unconnected ***
+         21       VCC
+         22       L1-5
+         23                *** unconnected ***
+         24                *** unconnected ***
+         25       VCC
+         26       L1-6
+         27                *** unconnected ***
+         28                *** unconnected ***
+         29       VCC
+         30       L1-7
+         31                *** unconnected ***
+         32                *** unconnected ***
+
+JPRTC0   1        BAT
+         2        GND
+         3        VCC
+         4        SCA
+         5        SCL
+         6        DS-NC
+         7        SQ-NC
+
+R1       P$1      GND
+         P$2      N$6
+
+R2       P$1      GND
+         P$2      N$1
+
+U0       1        GND
+         2        DATA0
+         3        SCK
+         4        LATCH
+         5        L0-0
+         6        L0-1
+         7        L0-2
+         8        L0-3
+         9        L0-4
+         10       L0-5
+         11       L0-6
+         12       L0-7
+         13       PWM
+         14       DATA1
+         15       N$6
+         16       VDD
+
+U1       1        GND
+         2        DATA1
+         3        SCK
+         4        LATCH
+         5        L1-0
+         6        L1-1
+         7        L1-2
+         8        L1-3
+         9        L1-4
+         10       L1-5
+         11       L1-6
+         12       L1-7
+         13       PWM
+         14       DATA2
+         15       N$1
+         16       VDD
+

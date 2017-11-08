@@ -1,0 +1,13 @@
+Program size: 8,342 bytes (used 26% of a 32,256 byte maximum) (6.23 secs)
+Minimum Memory Usage: 481 bytes (23% of a 2048 byte maximum)
+ 
+Compiling 'ChartLights' for 'Arduino/Genuino Uno'
+
+Program size: 8,376 bytes (used 26% of a 32,256 byte maximum) (1.46 secs)
+Minimum Memory Usage: 481 bytes (23% of a 2048 byte maximum)
+
+Compiling 'ChartLights' for 'Arduino/Genuino Uno'
+
+Program size: 8,434 bytes (used 26% of a 32,256 byte maximum) (3.70 secs)
+Minimum Memory Usage: 481 bytes (23% of a 2048 byte maximum)
+ 

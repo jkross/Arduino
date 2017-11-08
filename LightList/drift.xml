@@ -1,0 +1,16 @@
+<places>
+	<place>
+		<name>Driftmier</name>
+		<loc>
+			<lat>38.976108 N</lat>
+			<lon>76.499307 W</lon>
+		</loc>
+	</place>
+	<place>
+		<name>Adrift_F35</name>
+		<loc>
+			<lat>38.772942 N</lat>
+			<lon>76.563227 W</lon>
+		</loc>
+	</place>
+</places>

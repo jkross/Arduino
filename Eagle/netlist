@@ -1,0 +1,258 @@
+Netlist
+
+Exported from chart2.brd at 9/19/2016 7:15 PM
+
+EAGLE Version 7.6.0 Copyright (c) 1988-2016 CadSoft
+
+Net      Part     Pad
+
+BAT      JPRTC0   1
+
+DATA0    B0       D11
+         U0       2
+
+DATA1    U0       14
+         U1       2
+
+DATA2    U1       14
+         U2       2
+
+DATA3    U2       14
+         U3       2
+
+DATA4    U3       14
+         U4       2
+
+DATA5    U4       14
+
+DS-NC    JPRTC0   6
+
+GND      B0       GND@0
+         B0       GND@1
+         B0       GND@2
+         JPRTC0   2
+         R0       P$1
+         R1       P$1
+         R2       P$1
+         R3       P$1
+         R4       P$1
+         U0       1
+         U1       1
+         U2       1
+         U3       1
+         U4       1
+
+L0-0     J0       2
+         U0       5
+
+L0-1     J0       4
+         U0       6
+
+L0-2     J0       6
+         U0       7
+
+L0-3     J0       8
+         U0       8
+
+L0-4     J0       10
+         U0       9
+
+L0-5     J0       12
+         U0       10
+
+L0-6     J0       14
+         U0       11
+
+L0-7     J0       16
+         U0       12
+
+L1-0     J0       18
+         U1       5
+
+L1-1     J0       20
+         U1       6
+
+L1-2     J0       22
+         U1       7
+
+L1-3     J0       24
+         U1       8
+
+L1-4     J0       26
+         U1       9
+
+L1-5     J0       28
+         U1       10
+
+L1-6     J0       30
+         U1       11
+
+L1-7     J0       32
+         U1       12
+
+L2-0     J0       34
+         U2       5
+
+L2-1     J0       36
+         U2       6
+
+L2-2     J0       38
+         U2       7
+
+L2-3     J0       40
+         U2       8
+
+L2-4     J1       2
+         U2       9
+
+L2-5     J1       4
+         U2       10
+
+L2-6     J1       6
+         U2       11
+
+L2-7     J1       8
+         U2       12
+
+L3-0     J1       10
+         U3       5
+
+L3-1     J1       12
+         U3       6
+
+L3-2     J1       14
+         U3       7
+
+L3-3     J1       16
+         U3       8
+
+L3-4     J1       18
+         U3       9
+
+L3-5     J1       20
+         U3       10
+
+L3-6     J1       22
+         U3       11
+
+L3-7     J1       24
+         U3       12
+
+L4-0     J1       26
+         U4       5
+
+L4-1     J1       28
+         U4       6
+
+L4-2     J1       30
+         U4       7
+
+L4-3     J1       32
+         U4       8
+
+L4-4     J1       34
+         U4       9
+
+L4-5     J1       36
+         U4       10
+
+L4-6     J1       38
+         U4       11
+
+L4-7     J1       40
+         U4       12
+
+LATCH    B0       D12
+         U0       4
+         U1       4
+         U2       4
+         U3       4
+         U4       4
+
+N$1      R1       P$2
+         U1       15
+
+N$2      R2       P$2
+         U2       15
+
+N$3      R3       P$2
+         U3       15
+
+N$4      R4       P$2
+         U4       15
+
+N$6      R0       P$2
+         U0       15
+
+PWM      B0       D3
+         U0       13
+         U1       13
+         U2       13
+         U3       13
+         U4       13
+
+SCA      B0       A4
+         JPRTC0   4
+
+SCK      B0       D8
+         U0       3
+         U1       3
+         U2       3
+         U3       3
+         U4       3
+
+SCL      B0       A5
+         JPRTC0   5
+
+SQ-NC    JPRTC0   7
+
+VCC      B0       5V
+         J0       1
+         J0       11
+         J0       13
+         J0       15
+         J0       17
+         J0       19
+         J0       21
+         J0       23
+         J0       25
+         J0       27
+         J0       29
+         J0       3
+         J0       31
+         J0       33
+         J0       35
+         J0       37
+         J0       39
+         J0       5
+         J0       7
+         J0       9
+         J1       1
+         J1       11
+         J1       13
+         J1       15
+         J1       17
+         J1       19
+         J1       21
+         J1       23
+         J1       25
+         J1       27
+         J1       29
+         J1       3
+         J1       31
+         J1       33
+         J1       35
+         J1       37
+         J1       39
+         J1       5
+         J1       7
+         J1       9
+         JPRTC0   3
+
+VDD      B0       3.3V
+         U0       16
+         U1       16
+         U2       16
+         U3       16
+         U4       16
+

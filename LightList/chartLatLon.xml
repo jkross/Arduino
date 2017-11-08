@@ -1,0 +1,24 @@
+<charts>
+	<chart>
+		<num>2770</num>
+		<NW>
+			<lat>39-1-5.82N</lat>
+			<lon>76-36-29.84W</lon>
+		</NW>
+		<SE>
+			<lat>38-43-27.33N</lat>
+			<lon>76-3-57.02W</lon>
+		</SE>
+	</chart>
+	<chart>
+		<num>18448</num>
+		<NW>
+			<lat>47-35-59N</lat>
+			<lon>123-11-10W</lon>
+		</NW>
+		<SE>
+			<lat>47-1-58N</lat>
+			<lon>122-10-7W</lon>
+		</SE>
+	</chart>
+</charts>
